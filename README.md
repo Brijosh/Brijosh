@@ -5,7 +5,7 @@ Frontend developer focused on clean, responsive UI — currently expanding into 
 - 🔭 Building frontend and full-stack projects with React and Node.js
 - 🌱 Currently learning: MongoDB, Express, and full-stack architecture
 - 💞️ Open to collaborating on frontend development or UI/UX design work
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/brijosh-baby) · [Instagram](https://www.instagram.com/brijosh_baby) · your.email@example.com
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/brijosh-baby) · [Instagram](https://www.instagram.com/njan_brijosh) · dev.brijosh@example.com
 
 ---
 
